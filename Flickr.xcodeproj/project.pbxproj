@@ -17,6 +17,7 @@
 		69A2D4A72C32EE2C000BF38D /* FlickrFeed.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69A2D4A62C32EE2C000BF38D /* FlickrFeed.swift */; };
 		69A2D4A92C32EE5F000BF38D /* SearchBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69A2D4A82C32EE5F000BF38D /* SearchBar.swift */; };
 		69A2D4AB2C32F5D7000BF38D /* FlickerSearchBarViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69A2D4AA2C32F5D7000BF38D /* FlickerSearchBarViewModel.swift */; };
+		69A2D4AD2C3302BE000BF38D /* ImageDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69A2D4AC2C3302BE000BF38D /* ImageDetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +51,7 @@
 		69A2D4A62C32EE2C000BF38D /* FlickrFeed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlickrFeed.swift; sourceTree = "<group>"; };
 		69A2D4A82C32EE5F000BF38D /* SearchBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBar.swift; sourceTree = "<group>"; };
 		69A2D4AA2C32F5D7000BF38D /* FlickerSearchBarViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlickerSearchBarViewModel.swift; sourceTree = "<group>"; };
+		69A2D4AC2C3302BE000BF38D /* ImageDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageDetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				69A2D4822C32ECCF000BF38D /* Preview Content */,
 				69A2D4A82C32EE5F000BF38D /* SearchBar.swift */,
 				69A2D4AA2C32F5D7000BF38D /* FlickerSearchBarViewModel.swift */,
+				69A2D4AC2C3302BE000BF38D /* ImageDetailView.swift */,
 			);
 			path = Flickr;
 			sourceTree = "<group>";
@@ -271,6 +274,7 @@
 				69A2D4A92C32EE5F000BF38D /* SearchBar.swift in Sources */,
 				69A2D47D2C32ECCC000BF38D /* FlickrApp.swift in Sources */,
 				69A2D4A72C32EE2C000BF38D /* FlickrFeed.swift in Sources */,
+				69A2D4AD2C3302BE000BF38D /* ImageDetailView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
